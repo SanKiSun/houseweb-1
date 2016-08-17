@@ -2,6 +2,7 @@ package com.test.web.entity;
 
 public class HouseEntity {
 	
+        //测试修改
 	private int houseId;
 	private String title;
 	private double prize;
